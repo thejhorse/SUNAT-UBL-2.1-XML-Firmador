@@ -1,5 +1,5 @@
-# SUNAT-UBL-2.1-XML-Firmador
-Firmador de XML UBL 2.1 para SUNAT Peru
+# SUNAT UBL 2.1 XML Firmador
+Libreria para firmar documentos XML UBL 2.1 para SUNAT Peru.
 
 LDLXmlSignerLib es parte del suite de herramientas para Facturacion Electronica SUNAT UBL 2.1
 
