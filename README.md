@@ -1,11 +1,14 @@
 # SUNAT-UBL-2.1-XML-Firmador
 Firmador de XML UBL 2.1 para SUNAT Peru
 
-Este proyecto es parte del suite de herramientas para Facturacion Electronica SUNAT UBL 2.1
+LDLXmlSignerLib es parte del suite de herramientas para Facturacion Electronica SUNAT UBL 2.1
 
-- LDLXmlSignerLib
+- LDLXmlSignerLib<br>
     Libreria para firmar documentos XML CPE bajo UBL 2.1
-- LDLXmlUbl21Engine
+- LDLXmlUbl21Engine<br>
     Libreria para generacion de XML bajo UBL 2.1
 
-visite http://www.kernel.org.pe
+Pagina Web http://www.kernel.org.pe
+
+<b>Descarga</b>
+https://github.com/thejhorse/SUNAT-UBL-2.1-XML-Firmador/releases
